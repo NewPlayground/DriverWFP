@@ -1,0 +1,31 @@
+﻿  Building 'WFP TestDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: eliminacja zagrożeń Spectre jest włączona, ale nie można odnaleźć bibliotek z eliminacją łagodzeń Spectre. Upewnij się, że obciążenie programu Visual Studio zawiera biblioteki z eliminacją zagrożeń Spectre. Zobacz https://aka.ms/Ofhn4c, aby uzyskać więcej informacji.
+  Stamping Debug\WFPTestDriver.inf
+  Stamping [Version] section with DriverVer=01/16/2019,14.17.37.103
+  Źródło.c
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4047: "funkcja": "const wchar_t *" różni się w poziomach operatorów pośrednich od "wchar_t"
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4024: "wcscmp": różne typy dla formalnego i rzeczywistego parametru 1
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4129: "d": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4129: "h": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4129: "p": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4129: "g": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(107): warning C4129: "c": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(106): warning C4047: "inicjowanie": "wchar_t" różni się w poziomach operatorów pośrednich od "PWCHAR"
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4129: "P": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4129: "G": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4129: "C": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4129: "A": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4129: "c": nierozpoznany znak sekwencji ucieczki
+c:\users\sylwester\source\repos\wfp testdriver\wfp testdriver\źródło.c(149): warning C4133: "==": niezgodne typy - od "char [49]" do "PWCHAR"
+  WFP TestDriver.vcxproj -> C:\Users\SYLWESTER\source\repos\WFP TestDriver\Debug\WFPTestDriver.sys
+  ...........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\SYLWESTER\source\repos\WFP TestDriver\Debug\WFP TestDriver\wfptestdriver.cat
